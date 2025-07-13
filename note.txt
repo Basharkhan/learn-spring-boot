@@ -1,0 +1,1 @@
+Building jar: /home/basharkhan/Documents/development/spring-boot-projects/learn-spring-boot/target/learn-spring-boot-0.0.1-SNAPSHOT.jar
